@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~6.1.0"
+  },
+  "fitbit": {
+    "appUUID": "7a2d6a23-a31d-46d2-b101-bbceb15e4d2d",
+    "appType": "clockface",
+    "appDisplayName": "minimalistic-mcd",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_activity",
+      "access_heart_rate"
+    ],
+    "buildTargets": [
+      "atlas"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "minimalistic-mcd"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}
