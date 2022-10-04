@@ -1,6 +1,6 @@
 <h1 align="center">
     <br>
-    Minimalistic Clockface mcd
+    Minimalistic mcd
     <br>
 </h1>
 
